@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeyondDataworld
-- 👀 I’m interested in exploring the Data world by leevraging the BI tools that are available in the market.
+- 👀 I’m interested in exploring the Data world by leveraging the different BI tools available in the market.
 - 🌱 I’m currently learning Big data analytics and how it can imporve the way we interact with massive data.
 
 
